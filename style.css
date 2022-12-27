@@ -310,44 +310,6 @@ ul a
 {
   color: white;
 }
-.images
-{
-  display: flex;
-  color: white;
-  margin-left: 100px;
-  margin-top: 50px;
-  justify-content: flex-start;
-}
-.ileftbox1,.ileftbox2,.ileftbox3,.ileftbox4
-{
-  float:left;
-  margin-left: 30px;
-  /* display: grid; */
-}
-.iheading1
-{
-  color: white;
-  text-align: center;
-  font-family: 'Libre Baskerville', serif;
-  font-size: 20px;
-}
-.contact_me .heading1
-{
-  margin-top: 30px;
-}
-.contact_me .linkedin
-{
-  margin-left: 300px;
-  margin-top: 50px;
-}
-.contact_me .linkedin a{
-  margin-left: 200px;
-}
-/* .ps
-{
-  margin-top: 180px;
-  /* margin-right: -50px; */
-} */
 @media screen and (max-width:700px) {
   .bar-btn{
     display: block;
